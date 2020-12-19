@@ -2,7 +2,7 @@ import React, { FormEvent, useCallback, useEffect, useState } from 'react';
 
 import api from './services/api';
 import People from './components/People';
-import { Container, FormContainer, Item, Img } from './styles/styles';
+import { Container, FormContainer, Item, Img } from './styles/App';
 import GlobalStyle from './styles/global';
 import starWarsImg from './assets/starwars.png';
 
